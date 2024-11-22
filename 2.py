@@ -10,3 +10,4 @@ Series=array.array('i',ListCon)
 Dict1=dict(zip(Month,ListCon))
 with open("Beton.json","w") as f:
     json.dump(Dict1,f)
+print(a)
